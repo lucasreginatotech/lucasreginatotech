@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/ADS-UNINOVE%20Memorial-blue?style=for-the-badge" alt="Faculdade UNINOVE">
 </p>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNINOVE Barra Funda**. Sou apaixonado por tecnologia, com foco em desenvolvimento web, computação em nuvem (**Cloud**) e soluções utilizando **Inteligência Artificial**. 
+ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNINOVE presencial**. Atualmente estou focado no desenvolvimento web e aprofundando meus conhecimentos em lógica de programação e novas linguagens. 
 
 ---
 
@@ -20,10 +20,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNINOVE Barra F
   <!-- Linguagens em estudo -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-
-  <!-- Cloud & IA -->
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0055FF?style=for-the-badge&logo=openai&logoColor=white" alt="IA" />
-  <img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Cloud" />
 
   <!-- Ferramentas -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -43,4 +39,4 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNINOVE Barra F
 
 ### 📫 Conecte-se comigo:
 * 💼 **LinkedIn:** [Acessar meu LinkedIn](https://www.linkedin.com/in/lucas-reginato-93b69a3a6/)
-* ✉️ **E-mail:** lucasreginatotech@gmail.com
+* ✉️ **E-mail:** lucasreginato020@gmail.com
