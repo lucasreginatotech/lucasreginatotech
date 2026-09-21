@@ -11,10 +11,25 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNINOVE Barra F
 
 ### 💻 Tecnologias e Ferramentas
 
-* **Front-end:** HTML5, CSS3, JavaScript
-* **Em Aprendizado / Linguagens:** Java, C
-* **Áreas de Interesse:** Cloud Computing, Inteligência Artificial, Desenvolvimento Web
-* **Ferramentas:** Git, GitHub, VS Code
+<div align="left">
+  <!-- Front-end -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  
+  <!-- Linguagens em estudo -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+
+  <!-- Cloud & IA -->
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0055FF?style=for-the-badge&logo=openai&logoColor=white" alt="IA" />
+  <img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Cloud" />
+
+  <!-- Ferramentas -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%2520Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</div>
 
 ---
 
@@ -26,6 +41,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNINOVE Barra F
 
 ---
 
-### 📫 Como me encontrar:
-* **LinkedIn:** [Insira o link do seu LinkedIn aqui]
-* **E-mail:** [Insira o seu e-mail profissional aqui]
+### 📫 Conecte-se comigo:
+* 💼 **LinkedIn:** [Acessar meu LinkedIn](https://www.linkedin.com/in/lucas-reginato-93b69a3a6/)
+* ✉️ **E-mail:** lucasreginatotech@gmail.com
